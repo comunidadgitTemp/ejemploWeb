@@ -1,9 +1,9 @@
 /*
 * multi-line comment
 */
-p{ line-height: 1em; }
+p{ line-height: 5em; }
 h1, h2, h3, h4{
-    color: red;
+    color: blue;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -28,7 +28,7 @@ body{
 /* or on different lines like below */
 #logo{
 	width: 35%;
-	margin-top: 5px;
+	margin-top: 38px;
 	font-family: georgia;
 	display: inline-block;
 }
@@ -46,7 +46,7 @@ body{
 		}
 			#nav ul li a{
 				padding: 20px;
-				background: orange;
+				background: green;
 				color: white;
 			}
 			#nav ul li a:hover{
@@ -62,7 +62,7 @@ body{
 	clear: both;
 }
 #footer{
-	border-bottom: 1px #ccc solid;
+	border-bottom: 5px #ccc solid;
 	margin-bottom: 10px;
 }
 	#footer p{
